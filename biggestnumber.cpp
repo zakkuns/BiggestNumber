@@ -8,7 +8,7 @@ int main()
   
   cout<<"Please enter a whole number:\n";
   
-  cout<<"Please enter another whole number: ";
+  cout<<"Please enter another whole number:\n";
 
   cout<<"Of those two numbers, the biggest is: ";
   cout<<endl<<"Thank you for playing.\n";
